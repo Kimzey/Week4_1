@@ -1,0 +1,15 @@
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\bin\Debug\net6.0\week4_1.exe
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\bin\Debug\net6.0\week4_1.deps.json
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\bin\Debug\net6.0\week4_1.runtimeconfig.json
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\bin\Debug\net6.0\week4_1.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\bin\Debug\net6.0\week4_1.pdb
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.csproj.AssemblyReference.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.AssemblyInfo.cs
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\refint\week4_1.dll
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.pdb
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\week4_1.genruntimeconfig.cache
+C:\Users\Kim\Desktop\Code\lesson\Week4_1\obj\Debug\net6.0\ref\week4_1.dll
